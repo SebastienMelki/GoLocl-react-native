@@ -15,7 +15,7 @@ class GoLocl extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to GoLocl!
+          Welcome to iOS-GoLocl!
         </Text>
         <Text style={styles.instructions}>
           To get started, please create an account
